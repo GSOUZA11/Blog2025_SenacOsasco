@@ -1,0 +1,6 @@
+# robots.txt para EsporteFácil
+
+User-agent: *
+Disallow:
+
+Sitemap: https://blogdecuriosidades.repl.co/sitemap.xml
